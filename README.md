@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Juan García Moreno 👋
 
-<!--
-**Wanakox/Wanakox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate from the University of Córdoba.
 
-Here are some ideas to get you started:
+I'm interested in software development, backend engineering, Linux systems and infrastructure, with additional knowledge in AI and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- Python, C, C++, Java, SQL, Bash
+- FastAPI, REST APIs, SQLAlchemy
+- PostgreSQL, MySQL
+- Linux, Docker, Docker Compose
+- Git, GitHub
+- React, TypeScript
+- Raspberry Pi, Proxmox VE
+
+## Featured Projects
+
+### TripPlanner
+Full-stack travel planning application built with FastAPI, PostgreSQL, React, TypeScript and Docker.
+
+### IntubIA
+AI-assisted university hackathon prototype developed in collaboration with IMIBIC.
+
+### Sports Event Ticketing System
+Java and MySQL application using MVC, DAO and DTO patterns.
+
+## Links
+
+- Portfolio: https://wanakox.github.io
+- LinkedIn: https://www.linkedin.com/in/juan-garcía-moreno
